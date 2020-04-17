@@ -1,0 +1,2 @@
+# deneme
+eğitim amaçlıdır
